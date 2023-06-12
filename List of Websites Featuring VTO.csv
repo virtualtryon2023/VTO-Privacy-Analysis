@@ -1,0 +1,139 @@
+﻿url,image sent to a server,image sent to 3rd party server,image confirmed to be stored,privacy policy,violation type,uses VTO provider which breaches privacy policy,violation type,misleadingdisclaimer 
+www.elfcosmetics.com,yes,yes,yes,not violated,-,violated,3,no
+www.baume-et-mercier.com,no,no,no,not violated,-,not violated,-,no
+www.urbandecay.com,no,no,no,not violated,-,not violated,-,no
+www.nyxcosmetics.com,no,no,no,not violated,-,not violated,-,no
+www.maybelline.ca,no,no,no,not violated,-,not violated,-,no
+www.lancome.ca,no,no,no,not violated,-,not violated,-,no
+modiface.com,no,no,no,not violated,-,not violated,-,no
+baileynelson.com,no,no,no,not violated,-,not violated,-,no
+www.esteelauder.ca,yes,yes,no,violated,5,not violated,-,no
+beekman1802.com,no,no,no,not violated,-,not violated,-,no
+thelipbar.com,no,no,no,not violated,-,not violated,-,no
+www.catrice.eu,no,no,no,not violated,-,not violated,-,no
+www.target.com,no,no,no,not violated,-,not violated,-,no
+www.narscosmetics.com,no,no,no,not violated,-,not violated,-,no
+www.sallyhansen.com,yes,yes,yes,not violated,-,violated,3,no
+janeiredale.com,no,no,no,not violated,-,not violated,-,no
+www.maccosmetics.ca,no,no,no,not violated,-,not violated,-,no
+virtual-cosme.net,yes,yes,no,violated,4,not violated,-,no
+virtual-cosme.net,no,no,no,not violated,-,not violated,-,no
+decortecosmetics.com,no,no,no,not violated,-,not violated,-,no
+tartecosmetics.com,no,no,no,not violated,-,not violated,-,no
+www.coffretdor-makeup.jp,no,no,no,not violated,-,not violated,-,no
+www.aveda.ca,yes,yes,yes,violated,5,violated,3,no
+www.sofinaip-hadaid.com,no,no,no,not violated,-,not violated,-,no
+www.elfcosmetics.com,yes,yes,no,not violated,-,violated,3,yes
+www.ardellshop.com,no,no,no,not violated,-,not violated,-,no
+www.punky.com,yes,yes,yes,vague,-,violated,3,no
+www.benefitcosmetics.com,yes,yes,no,violated,5,not violated,-,yes
+vto.gunnar.com,yes,yes,no,vague,-,violated,1,yes
+www.fielmann.at,yes,yes,no,not violated,-,violated,1,yes
+www.fittingbox.com,yes,no,no,violated,1,not violated,-,yes
+us.jins.com,yes,yes,no,not violated,-,violated,1,yes
+www.hansanders.nl,yes,yes,yes,not violated,-,violated,1,yes
+eyewear.pttrns.ai,yes,no,yes,not violated,-,not violated,-,no
+www.kits.ca,yes,yes,no,not violated,-,violated,1,yes
+www.transitions.com,yes,yes,no,violated,5,violated,1,yes
+virtualmirror-xp.luxottica.com/kvbkF86bZsvnGqLmsfUdGj,yes,no,yes,violated,2,not violated,-,yes
+www.armani.com,no,no,no,not violated,-,not violated,-,no
+#VALUE!,no,no,no,not violated,-,not violated,-,no
+www.charlietemple.com,yes,yes,no,vague,-,violated,1,yes
+www.invushop.com,yes,yes,no,vague,-,violated,1,yes
+eyerim.hr,yes,yes,no,vague,-,violated,1,yes
+www.afflelou.com,yes,yes,no,vague,-,violated,1,no
+www.edel-optics.de,yes,yes,no,not violated,-,violated,1,yes
+demo.luna.io,yes,no,no,not violated,-,not violated,-,no
+ca.zennioptical.com,yes,yes,yes,not violated,-,not violated,-,no
+sunski.com,yes,yes,yes,not violated,-,not violated,-,no
+www.americasbest.com,yes,yes,yes,not violated,-,not violated,-,no
+www.eyeglassworld.com,yes,yes,yes,not violated,-,not violated,-,no
+www.oakley.com,yes,yes,no,not violated,-,not violated,-,no
+www.designerglasses.co.uk,yes,yes,no,vague,-,violated,1,yes
+www.smartbuyglasses.com,yes,yes,yes,not violated,-,not violated,-,no
+www.bulgari.com,yes,yes,no,not violated,-,not violated,-,yes
+www.costadelmar.com,yes,yes,no,not violated,-,not violated,-,no
+www.miumiu.com,yes,yes,no,vague,-,not violated,-,yes
+www.oliverpeoples.com,no,no,no,not violated,-,not violated,-,no
+www.persol.com,no,no,no,not violated,-,not violated,-,no
+www.prada.com,yes,yes,no,vague,-,not violated,-,yes
+www.ray-ban.com,no,no,no,not violated,-,not violated,-,no
+www.vogue-eyewear.com,no,no,no,not violated,-,not violated,-,no
+www.bebeautiful.in,yes,yes,yes,vague,-,not violated,-,no
+www.eyebuydirect.ca,yes,yes,yes,not violated,-,vague,-,no
+1822denim.com,yes,yes,no,not violated,-,not violated,-,no
+www.lenskart.com,yes,yes,yes,not violated,-,NA,-,no
+www.lenscrafters.ca,no,no,no,not violated,-,not violated,-,no
+www.clearly.ca,no,no,no,not violated,-,not violated,-,no
+www.eyeconic.com,yes,yes,yes,not violated,-,not violated,-,no
+www.silhouette.com,yes,yes,yes,not violated,-,not violated,-,no
+www.fashioneyewear.com,yes,yes,no,vague,-,violated,1,yes
+www.sunglasshut.com,yes,yes,no,violated,5,not violated,-,no
+www.titaneyeplus.com,yes,yes,no,violated,4,not violated,-,no
+www.kiksar.com,yes,no,no,ambiguous,-,not violated,-,no
+www.glassesusa.com,yes,no,yes,not violated,-,not violated,-,no
+www.visionexpress.com,yes,yes,yes,not violated,-,not violated,-,no
+www.specsavers.com.au,yes,yes,yes,not violated,-,not violated,-,no
+ca.vintandyork.com,yes,yes,no,vague,-,violated,1,yes
+www.optically.ca,yes,no,no,vague,-,NA,-,no
+www.misterspex.co.uk,yes,yes,yes,not violated,-,not violated,-,no
+nano-vista.com,yes,yes,no,vague,-,violated,1,yes
+barnerbrand.com,yes,yes,no,vague,-,violated,1,yes
+drbishop.com,yes,yes,no,violated,4,violated,1,no
+www.owndays.com,no,no,no,not violated,-,not violated,-,no
+glasson.sk-global.biz,no,no,no,not violated,-,NA,-,no
+ca.moscot.com,no,no,no,not violated,-,not violated,-,no
+www.targetoptical.com,no,no,no,not violated,-,NA,-,no
+www.glassesgallery.com,no,no,no,not violated,-,not violated,-,no
+www.aceptrylive.com,no,no,no,not violated,-,NA,-,no
+www.glasses2you.co.uk,no,no,no,not violated,-,not violated,-,no
+www.bennewitz.com,no,no,no,not violated,-,NA,-,no
+www.peepers.com,yes,yes,no,violated,5,violated,1,yes
+www.bonlook.ca,yes,yes,yes,vague,-,not violated,-,no
+sunniesstudios.com,yes,yes,yes,not violated,-,not violated,-,no
+edandsarna.com,yes,yes,yes,vague,-,vague,-,no
+auglio.com,no,no,no,not violated,-,NA,-,no
+www.mouqy.com,yes,yes,yes,vague,-,vague,-,no
+www.favrspecs.com,yes,yes,yes,not violated,-,not violated,-,no
+www.bose.ca,no,no,no,not violated,-,not violated,-,no
+www.pottglasses.com,no,no,no,not violated,-,not violated,-,no
+www.quayaustralia.com,yes,yes,no,not violated,-,not violated,-,no
+cubitts.com,no,no,no,not violated,-,not violated,-,no
+www.eyeglassdirect.com,no,no,no,not violated,-,not violated,-,no
+www.alensa.ie,yes,yes,yes,violated,4,violated,1,yes
+intl.lespecs.com,yes,yes,no,vague,-,violated,1,yes
+www.fostergrant.com,no,no,no,not violated,-,not violated,-,no
+www.lensor.eu,yes,yes,yes,not violated,-,not violated,-,no
+asianeyeshop.com,yes,yes,no,not violated,-,violated,1,yes
+www.eyebobs.com,no,no,no,not violated,-,not violated,-,no
+int.lindafarrow.com,yes,yes,no,vague,-,violated,1,yes
+mandsopticians.com,yes,yes,yes,vague,-,not violated,-,no
+www.bantonframeworks.co.uk,yes,yes,yes,vague,-,vague,-,no
+www.bexsunglasses.com,yes,yes,no,ambiguous,-,violated,1,yes
+www.clarksoneyecare.com,yes,yes,yes,vague,-,not violated,-,no
+retropeepers.com,yes,yes,no,vague,-,violated,1,yes
+www.lensmartonline.com,yes,yes,yes,vague,-,ambiguous,-,no
+liingoeyewear.com,yes,yes,yes,not violated,-,not violated,-,no
+iolla.com,yes,yes,yes,not violated,-,vague,-,no
+www.olliequinn.ca,no,no,no,not violated,-,not violated,-,no
+www.plattar.com,no,no,no,not violated,-,not violated,-,no
+www.nationwidevision.com,yes,yes,yes,vague,-,not violated,-,no
+fyidoctors.com,yes,yes,no,violated,4,violated,1,yes
+anrri.com,yes,yes,yes,ambiguous,-,vague,-,no
+www.lgrworld.com,yes,yes,no,vague,-,violated,1,no
+leoptique.com,yes,no,yes,vague,-,NA,-,no
+paireyewear.com,yes,yes,no,vague,-,violated,1,no
+optica.africa,yes,yes,no,violated,5,not violated,-,no
+modakatech.com,no,no,no,not violated,-,not violated,-,no
+www.viccieyewear.com,yes,yes,yes,vague,-,not violated,-,no
+ca.goggles4u.com,yes,yes,no,vague,-,violated,1,yes
+www.dukpion.com,yes,yes,yes,vague,-,vague,-,no
+www.payneglasses.com,yes,no,yes,not violated,-,not violated,-,no
+www.safetyeyeglasses.com,yes,no,yes,not violated,-,NA,-,no
+www.myeyedr.com,yes,yes,no,vague,-,violated,1,no
+www.framesdata.com,yes,yes,no,vague,-,violated,1,no
+www.zeelool.com,no,no,no,not violated,-,not violated,-,no
+kokkorisoptics.com,yes,yes,yes,vague,-,vague,-,no
+www.exactfit.co,no,no,no,not violated,-,not violated,-,no
+www.gkboptical.com,yes,yes,no,violated,4,not violated,-,no
+www.fitglasses.com,yes,no,yes,vague,-,NA,-,no
