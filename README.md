@@ -15,3 +15,5 @@ There are four files:
 * **List of Websites Featuring VTO.pdf**: the full list of the tested 138 websites in PDF format (more readable).
 
 [^1]: An app is considered pure VTO if the VTO or AR feature is explicitly advertised as a main feature in the app's description. We consider a non-pure VTO app to be one that does not advertise VTO or AR as a main feature in its description.
+
+**Note regarding apps list**: We classify apps into either being _pure VTO_ or _non-pure VTO_. An app is considered _pure VTO_ if the VTO or AR feature is explicitly advertised as a main feature in the app's description, such as apps for eye-wear with VTO. We consider a _non-pure VTO_ app to be one that does not advertise VTO or AR as a main feature in its description, such as a general online marketplace app which allows VTO for some products. See column 3 in apps' table for this classification.
